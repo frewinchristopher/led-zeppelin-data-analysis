@@ -6,4 +6,4 @@ Lots and lots more about this code can be found here: https://chrisfrew.in/led-z
 
  `word_counts.py` - Get word counts!
 
-`markov_chain.py` - Generate crappy/weird lyric sentances with a very basic Markov Chain
+`markov_chain.py` - Generate crappy/weird lyric sentances with a very basic Markov Chain!
